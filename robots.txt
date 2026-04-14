@@ -1,1 +1,1 @@
-Sitemap: https://rjfogarty.github.io/Lomberk-Lab-Website/sitemap.xml
+Sitemap: https://rjfogarty.github.io/Lomberk-Lab.github.io/sitemap.xml
