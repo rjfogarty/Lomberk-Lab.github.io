@@ -7,7 +7,7 @@ principal-investigator:
   description: Principal Investigator
 
 lead-scientist:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-flask-vial
   description: Lead Scientist
 
 dna-icon:
