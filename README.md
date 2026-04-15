@@ -5,6 +5,6 @@
 
   # rjfogarty's Website
 
-  Visit **[rjfogarty.github.io/Lomberk-Lab.github.io](https://rjfogarty.github.io/Lomberk-Lab.github.io)** 🚀
+  Visit **[lomberk-lab.github.io](https://lomberk-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
