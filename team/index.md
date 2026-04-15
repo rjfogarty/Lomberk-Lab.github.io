@@ -16,7 +16,6 @@ Our laboratory is actively recruiting for a Research Technician as well as gradu
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-photo-film" %}Lab Photos
 
 {% include section.html %}
