@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team focuses on epigenetic mechanisms that drive pancreatic cancer by combining molecular biology and computational approaches. We leverage these insights to develop and test targeted experimental therapeutics. Our laboratory is actively recruiting for a Research Technician as well as graduate students who take pride in rigorous science and is eager to develop their skills within a collaborative, discovery-driven research environment. Please reach out to Dr. Lomberk if interested!
 
 {% include section.html %}
 
