@@ -13,7 +13,7 @@ We are always interested in collaborative opportunities across disciplines, and 
 
 {% capture text %}
 
-Explore recent work from our team highlighting epigenetic regulation in disease and supporting ongoing translational research efforts
+Explore recent work from our team highlighting epigenetic regulation in disease and supporting ongoing translational research efforts.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Explore recent work from our team highlighting epigenetic regulation in disease 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+NEED LITTLE BLURB HERE ABOUT PROJECTS
 
 {%
   include button.html
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our team is an interdisciplinary group working across epigenetics, molecular biology, and computational science. We foster an inclusive, diverse, and supportive environment that drives our meaningful research!
+Our interdisciplinary team works across epigenetics, cellular and molecular biology, and computational biochemistry. By adopting this collaborative approach, we work to inform and accelerate targeting strategies across various diseases. 
 
 {%
   include button.html
