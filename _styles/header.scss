@@ -23,6 +23,12 @@ header {
   }
 }
 
+header[data-big] {
+  background-size: contain !important;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 header a {
   color: var(--text);
   text-decoration: none;
